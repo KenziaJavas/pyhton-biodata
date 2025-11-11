@@ -4,7 +4,7 @@
 nama = "Kenzia javas niscala putra";
 umur = "15 tahun";
 jenis_kelamin = "Laki-laki";
-sekolah = "Smk telkom jakarta";
+sekolah = "Sma anida";
 kelas = "X RPL 7";
 
 #Menampilkan Output biodata
